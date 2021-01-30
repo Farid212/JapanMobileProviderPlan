@@ -1,0 +1,59 @@
+{
+  "provider": "b-mobile",
+  "plans": {
+    "jfsim": [
+      {
+        "dataLimit": "1GBまで",
+        "monthlyFee": "990円(税別)(税込:1,089円)"
+      },
+      {
+        "dataLimit": "3GBまで",
+        "monthlyFee": "1,290円"
+      },
+      {
+        "dataLimit": "6GBまで",
+        "monthlyFee": "1,790円"
+      },
+      {
+        "dataLimit": "10GBまで",
+        "monthlyFee": "2,590円"
+      },
+      {
+        "dataLimit": "15GBまで",
+        "monthlyFee": "3,590円"
+      }
+    ],
+    "sim_190": [
+      {
+        "dataLimit": "100MBまで",
+        "priceWithCom": "190円",
+        "priceWithSms": "320円"
+      },
+      {
+        "dataLimit": "1GBまで",
+        "priceWithCom": "480円",
+        "priceWithSms": "610円"
+      },
+      {
+        "dataLimit": "3GBまで",
+        "priceWithCom": "850円",
+        "priceWithSms": "980円"
+      },
+      {
+        "dataLimit": "6GBまで",
+        "priceWithCom": "1,450円",
+        "priceWithSms": "1,580円"
+      },
+      {
+        "dataLimit": "10GBまで(初期設定上限値)",
+        "priceWithCom": "2,190円",
+        "priceWithSms": "2,320円"
+      },
+      {
+        "dataLimit": "15GBまで",
+        "priceWithCom": "3,280円",
+        "priceWithSms": "3,410円"
+      }
+    ]
+  }
+}
