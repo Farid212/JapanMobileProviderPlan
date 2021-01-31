@@ -15,11 +15,9 @@
 ```sh
 yarn install
 ```
-
-## Run tests
-
+## Usage
 ```sh
-yarn run test
+node [script Name].js
 ```
 
 ## Author
