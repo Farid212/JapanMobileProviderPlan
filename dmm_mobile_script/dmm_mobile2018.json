@@ -1,0 +1,93 @@
+{
+  "provider": "DMM mobile",
+  "tag": "dmm_mobile",
+  "Categories": [
+    {
+      "name": "データ通信SIMプラン※1",
+      "plan": [
+        {
+          "name": "ライト※3※4",
+          "price": "440円"
+        },
+        {
+          "name": "1GB",
+          "price": "480円"
+        },
+        {
+          "name": "2GB",
+          "price": "770円"
+        },
+        {
+          "name": "3GB",
+          "price": "850円"
+        },
+        {
+          "name": "5GB",
+          "price": "1,210円"
+        },
+        {
+          "name": "7GB",
+          "price": "1,860円"
+        },
+        {
+          "name": "8GB",
+          "price": "1,980円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,190円"
+        },
+        {
+          "name": "15GB",
+          "price": "3,280円"
+        },
+        {
+          "name": "20GB",
+          "price": "3,980円"
+        }
+      ]
+    },
+    {
+      "name": "データ通信SIM(最大)3枚プラン※1",
+      "plan": [
+        {
+          "name": "8GB",
+          "price": "1,980円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,190円"
+        },
+        {
+          "name": "15GB",
+          "price": "3,280円"
+        },
+        {
+          "name": "20GB",
+          "price": "3,980円"
+        }
+      ]
+    },
+    {
+      "name": "通話対応SIM2枚+データ通信SIM(最大)1枚プラン※1",
+      "plan": [
+        {
+          "name": "8GB",
+          "price": "3,380円"
+        },
+        {
+          "name": "10GB",
+          "price": "3,590円"
+        },
+        {
+          "name": "15GB",
+          "price": "4,680円"
+        },
+        {
+          "name": "20GB",
+          "price": "5,380円"
+        }
+      ]
+    }
+  ]
+}
