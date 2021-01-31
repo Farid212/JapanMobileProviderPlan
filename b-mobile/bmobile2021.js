@@ -42,7 +42,6 @@ const req1 = ( err, response, body) =>{
         }
         plans = plans.slice(0,5)
         bmobile.plans.jfsim = plans
-        // console.log('r1',bmobile.plans)
     }
 }   
 

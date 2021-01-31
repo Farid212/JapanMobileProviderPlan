@@ -1,0 +1,93 @@
+{
+  "provider": "biglobe",
+  "tag": "bloglobe_sim",
+  "categories": [
+    {
+      "name": "biglobe_sim_a",
+      "plan": [
+        {
+          "name": "1GB/月",
+          "price": "1,400円"
+        },
+        {
+          "name": "3GB/月",
+          "price": "1,600円"
+        },
+        {
+          "name": "6GB/月",
+          "price": "2,150円"
+        },
+        {
+          "name": "12GB/月",
+          "price": "3,400円"
+        },
+        {
+          "name": "20GB/月",
+          "price": "5,200円"
+        },
+        {
+          "name": "30GB/月",
+          "price": "7,450円"
+        }
+      ]
+    },
+    {
+      "name": "biglobe_sim_a",
+      "plan": [
+        {
+          "name": "1GB/月",
+          "price": "-"
+        },
+        {
+          "name": "3GB/月",
+          "price": "1,020円"
+        },
+        {
+          "name": "6GB/月",
+          "price": "1,570円"
+        },
+        {
+          "name": "12GB/月",
+          "price": "2,820円"
+        },
+        {
+          "name": "20GB/月",
+          "price": "4,620円"
+        },
+        {
+          "name": "30GB/月",
+          "price": "6,870円"
+        }
+      ]
+    },
+    {
+      "name": "biglobe_sim",
+      "plan": [
+        {
+          "name": "1GB/月",
+          "price": "-"
+        },
+        {
+          "name": "3GB/月",
+          "price": "900円"
+        },
+        {
+          "name": "6GB/月",
+          "price": "1,450円"
+        },
+        {
+          "name": "12GB/月",
+          "price": "2,700円"
+        },
+        {
+          "name": "20GB/月",
+          "price": "4,500円"
+        },
+        {
+          "name": "30GB/月",
+          "price": "6,750円"
+        }
+      ]
+    }
+  ]
+}
