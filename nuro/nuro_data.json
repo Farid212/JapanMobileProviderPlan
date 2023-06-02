@@ -1,0 +1,129 @@
+{
+  "provider": "nuroモバイル",
+  "tag": "nuro_mobile",
+  "categories": [
+    {
+      "name": "data only",
+      "plan": [
+        {
+          "name": "2GB",
+          "price": "700円"
+        },
+        {
+          "name": "3GB",
+          "price": "900円"
+        },
+        {
+          "name": "4GB",
+          "price": "1,100円"
+        },
+        {
+          "name": "5GB",
+          "price": "1,300円"
+        },
+        {
+          "name": "6GB",
+          "price": "1,500円"
+        },
+        {
+          "name": "7GB",
+          "price": "1,700円"
+        },
+        {
+          "name": "8GB",
+          "price": "1,900円"
+        },
+        {
+          "name": "9GB",
+          "price": "2,100円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,300円"
+        }
+      ]
+    },
+    {
+      "name": "data and sms",
+      "plan": [
+        {
+          "name": "2GB",
+          "price": "850円"
+        },
+        {
+          "name": "3GB",
+          "price": "1,050円"
+        },
+        {
+          "name": "4GB",
+          "price": "1,250円"
+        },
+        {
+          "name": "5GB",
+          "price": "1,450円"
+        },
+        {
+          "name": "6GB",
+          "price": "1,650円"
+        },
+        {
+          "name": "7GB",
+          "price": "1,850円"
+        },
+        {
+          "name": "8GB",
+          "price": "2,050円"
+        },
+        {
+          "name": "9GB",
+          "price": "2,250円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,450円"
+        }
+      ]
+    },
+    {
+      "name": "data, sms & call",
+      "plan": [
+        {
+          "name": "2GB",
+          "price": "1,400円"
+        },
+        {
+          "name": "3GB",
+          "price": "1,600円"
+        },
+        {
+          "name": "4GB",
+          "price": "1,800円"
+        },
+        {
+          "name": "5GB",
+          "price": "2,000円"
+        },
+        {
+          "name": "6GB",
+          "price": "2,200円"
+        },
+        {
+          "name": "7GB",
+          "price": "2,400円"
+        },
+        {
+          "name": "8GB",
+          "price": "2,600円"
+        },
+        {
+          "name": "9GB",
+          "price": "2,800円"
+        },
+        {
+          "name": "10GB",
+          "price": "3,000円"
+        }
+      ]
+    }
+  ]
+}

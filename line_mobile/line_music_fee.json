@@ -1,0 +1,28 @@
+[
+  {
+    "Provider": "LINEモバイル",
+    "Plan": "データフリーとは",
+    "information": [
+      {
+        "monthlyCapacity": "3GB",
+        "dataSim": "月額1,810円",
+        "callSim": "月額2,390円"
+      },
+      {
+        "monthlyCapacity": "5GB",
+        "dataSim": "月額2,140円",
+        "callSim": "月額2,720円"
+      },
+      {
+        "monthlyCapacity": "7GB",
+        "dataSim": "月額2,700円",
+        "callSim": "月額3,280円"
+      },
+      {
+        "monthlyCapacity": "10GB",
+        "dataSim": "月額2,940円",
+        "callSim": "月額3,520円"
+      }
+    ]
+  }
+]

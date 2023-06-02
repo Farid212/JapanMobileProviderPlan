@@ -1,0 +1,48 @@
+{
+  "provider": "LINE",
+  "tag": "baka",
+  "categories": [
+    {
+      "name": "Data Sim",
+      "plan": [
+        {
+          "name": "3GB",
+          "price": "1,810円"
+        },
+        {
+          "name": "5GB",
+          "price": "2,140円"
+        },
+        {
+          "name": "7GB",
+          "price": "2,700円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,940円"
+        }
+      ]
+    },
+    {
+      "name": "Call Sim",
+      "plan": [
+        {
+          "name": "3GB",
+          "price": "2,390円"
+        },
+        {
+          "name": "5GB",
+          "price": "2,720円"
+        },
+        {
+          "name": "7GB",
+          "price": "3,280円"
+        },
+        {
+          "name": "10GB",
+          "price": "3,520円"
+        }
+      ]
+    }
+  ]
+}

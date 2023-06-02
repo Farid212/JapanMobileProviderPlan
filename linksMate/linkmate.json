@@ -1,0 +1,56 @@
+{
+  "provider": "プラン・料金 | リンクスメイト -LinksMate-",
+  "tag": "linksmate",
+  "categories": [
+    {
+      "name": "データ+SMS  SIMカード",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "500"
+        },
+        {
+          "name": "5GB",
+          "price": "1500"
+        },
+        {
+          "name": "10GB",
+          "price": "2500"
+        },
+        {
+          "name": "20GB",
+          "price": "4200"
+        },
+        {
+          "name": "30GB",
+          "price": "5400"
+        }
+      ]
+    },
+    {
+      "name": "データ+SMS  SIMカード",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "1100"
+        },
+        {
+          "name": "5GB",
+          "price": "2100"
+        },
+        {
+          "name": "10GB",
+          "price": "3100"
+        },
+        {
+          "name": "20GB",
+          "price": "4800"
+        },
+        {
+          "name": "30GB",
+          "price": "6000"
+        }
+      ]
+    }
+  ]
+}

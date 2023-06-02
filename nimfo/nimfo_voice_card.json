@@ -1,0 +1,23 @@
+[
+  {
+    "Provider": "音声通話対応SIMカード ｜ 格安SIMのNifMo（ニフモ）",
+    "category": "音声通話対応SIMカードのご利用料金",
+    "informations": [
+      {
+        "data": "3GB",
+        "price": "月額1,600円（税抜）"
+      },
+      {
+        "price": "月額2,300円（税抜）"
+      },
+      {
+        "data": "13GB",
+        "price": "月額3,500円（税抜）"
+      }
+    ]
+  },
+  {
+    "Provider": "info",
+    "informations": []
+  }
+]

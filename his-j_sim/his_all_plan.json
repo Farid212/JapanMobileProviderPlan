@@ -1,0 +1,178 @@
+{
+  "provider": "H.I.S モバイル",
+  "tag": "his_mobile_d",
+  "categories": [
+    {
+      "name": "best choice",
+      "plan": [
+        {
+          "name": "500m",
+          "price": "945円"
+        },
+        {
+          "name": "2g",
+          "price": "1,300円"
+        },
+        {
+          "name": "6g",
+          "price": "1,900円"
+        },
+        {
+          "name": "10g",
+          "price": "2,800円"
+        },
+        {
+          "name": "20g",
+          "price": "4,500円"
+        },
+        {
+          "name": "50g",
+          "price": "8,000円"
+        }
+      ]
+    },
+    {
+      "name": "data net pitatto",
+      "plan": [
+        {
+          "name": "100m",
+          "price": "190円"
+        },
+        {
+          "name": "1g",
+          "price": "540円"
+        },
+        {
+          "name": "2g",
+          "price": "890円"
+        },
+        {
+          "name": "3g",
+          "price": "1,240円"
+        },
+        {
+          "name": "4g",
+          "price": "1,590円"
+        },
+        {
+          "name": "5g",
+          "price": "1,940円"
+        },
+        {
+          "name": "6g",
+          "price": "2,290円"
+        },
+        {
+          "name": "7g",
+          "price": "2,640円"
+        },
+        {
+          "name": "8g",
+          "price": "2,990円"
+        },
+        {
+          "name": "9g",
+          "price": "3,340円"
+        },
+        {
+          "name": "10g",
+          "price": "3,690円"
+        }
+      ]
+    },
+    {
+      "name": "net pitatto",
+      "plan": [
+        {
+          "name": "1g",
+          "price": "990円"
+        },
+        {
+          "name": "2g",
+          "price": "1,490円"
+        },
+        {
+          "name": "3g",
+          "price": "1,990円"
+        },
+        {
+          "name": "4g",
+          "price": "2,490円"
+        },
+        {
+          "name": "5g",
+          "price": "2,990円"
+        },
+        {
+          "name": "6g",
+          "price": "3,490円"
+        },
+        {
+          "name": "7g",
+          "price": "3,990円"
+        },
+        {
+          "name": "8g",
+          "price": "4,490円"
+        },
+        {
+          "name": "9g",
+          "price": "4,990円"
+        },
+        {
+          "name": "10g",
+          "price": "5,490円"
+        },
+        {
+          "name": "11g",
+          "price": "5,840円"
+        },
+        {
+          "name": "12g",
+          "price": "6,190円"
+        },
+        {
+          "name": "13g",
+          "price": "6,540円"
+        },
+        {
+          "name": "14g",
+          "price": "6,890円"
+        },
+        {
+          "name": "15g",
+          "price": "7,240円"
+        }
+      ]
+    },
+    {
+      "name": "call unlimited",
+      "plan": [
+        {
+          "name": "500m",
+          "price": "1,550円"
+        },
+        {
+          "name": "2g",
+          "price": "1,950円"
+        },
+        {
+          "name": "6g",
+          "price": "2,550円"
+        },
+        {
+          "name": "10g",
+          "price": "3,450円"
+        },
+        {
+          "name": "20g",
+          "price": "5,150円"
+        },
+        {
+          "name": "50g",
+          "price": "8,600円"
+        }
+      ]
+    }
+  ]
+}

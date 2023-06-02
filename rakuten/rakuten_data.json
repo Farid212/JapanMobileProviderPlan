@@ -1,0 +1,93 @@
+{
+  "provider": "楽天モバイル",
+  "tag": "rakuten_mobile",
+  "categories": [
+    {
+      "name": "Voice plan",
+      "plan": [
+        {
+          "name": "Basic Plan",
+          "plan": "1,250円"
+        },
+        {
+          "name": "3.1GB",
+          "plan": "1,600円"
+        },
+        {
+          "name": "5GB",
+          "plan": "2,150円"
+        },
+        {
+          "name": "10GB",
+          "plan": "2,960円"
+        },
+        {
+          "name": "20GB",
+          "plan": "4,750円"
+        },
+        {
+          "name": "30GB",
+          "plan": "6,150円"
+        }
+      ]
+    },
+    {
+      "name": "Data & Sms plan",
+      "plan": [
+        {
+          "name": "Basic Plan",
+          "plan": "645円"
+        },
+        {
+          "name": "3.1GB",
+          "plan": "1,020円"
+        },
+        {
+          "name": "5GB",
+          "plan": "1,570円"
+        },
+        {
+          "name": "10GB",
+          "plan": "2,380円"
+        },
+        {
+          "name": "20GB",
+          "plan": "4,170円"
+        },
+        {
+          "name": "30GB",
+          "plan": "5,520円"
+        }
+      ]
+    },
+    {
+      "name": "Data plan",
+      "plan": [
+        {
+          "name": "Basic Plan",
+          "plan": "525円"
+        },
+        {
+          "name": "3.1GB",
+          "plan": "900円"
+        },
+        {
+          "name": "5GB",
+          "plan": "1,450円"
+        },
+        {
+          "name": "10GB",
+          "plan": "2,260円"
+        },
+        {
+          "name": "20GB",
+          "plan": "4,050円"
+        },
+        {
+          "name": "30GB",
+          "plan": "5,450円"
+        }
+      ]
+    }
+  ]
+}

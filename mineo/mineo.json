@@ -1,0 +1,72 @@
+{
+  "provider": "mineo",
+  "tag": "mineo_a",
+  "categories": [
+    {
+      "name": "(データ通信のみ)",
+      "plan": [
+        {
+          "name": "500MB",
+          "price": "700円"
+        },
+        {
+          "name": "1GB",
+          "price": "800円"
+        },
+        {
+          "name": "3GB",
+          "price": "900円"
+        },
+        {
+          "name": "6GB",
+          "price": "1,580円"
+        },
+        {
+          "name": "10GB",
+          "price": "2,520円"
+        },
+        {
+          "name": "20GB",
+          "price": "3,980円"
+        },
+        {
+          "name": "30GB",
+          "price": "5,900円"
+        }
+      ]
+    },
+    {
+      "name": "(データ通信+音声通話)",
+      "plan": [
+        {
+          "name": "500MB",
+          "price": "1,310円"
+        },
+        {
+          "name": "1GB",
+          "price": "1,410円"
+        },
+        {
+          "name": "3GB",
+          "price": "1,510円"
+        },
+        {
+          "name": "6GB",
+          "price": "2,190円"
+        },
+        {
+          "name": "10GB",
+          "price": "3,130円"
+        },
+        {
+          "name": "20GB",
+          "price": "4,590円"
+        },
+        {
+          "name": "30GB",
+          "price": "6,510円"
+        }
+      ]
+    }
+  ]
+}

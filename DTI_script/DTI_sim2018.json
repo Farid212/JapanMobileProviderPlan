@@ -1,0 +1,48 @@
+{
+  "provider": "DTI",
+  "tag": "dti",
+  "categories": [
+    {
+      "name": "音声プラン",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "1,200円"
+        },
+        {
+          "name": "3GB",
+          "price": "1,490円"
+        },
+        {
+          "name": "5GB",
+          "price": "1,920円"
+        },
+        {
+          "name": "ネットつかい放題",
+          "price": "2,900円"
+        }
+      ]
+    },
+    {
+      "name": "データプラン",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "600円"
+        },
+        {
+          "name": "3GB",
+          "price": "840円"
+        },
+        {
+          "name": "5GB",
+          "price": "1,220円"
+        },
+        {
+          "name": "ネットつかい放題",
+          "price": "2,200円"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "provider": "DTI",
+  "tag": "dti",
+  "categories": [
+    {
+      "name": "音声プラン",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "1,320円"
+        },
+        {
+          "name": "3GB",
+          "price": "1,639円"
+        },
+        {
+          "name": "5GB",
+          "price": "3,190円"
+        },
+        {
+          "name": "10GB",
+          "price": "660円"
+        }
+      ]
+    },
+    {
+      "name": "データプラン",
+      "plan": [
+        {
+          "name": "1GB",
+          "price": "924円"
+        },
+        {
+          "name": "3GB",
+          "price": "2,420円"
+        },
+        {
+          "name": "5GB"
+        },
+        {
+          "name": "10GB"
+        }
+      ]
+    }
+  ]
+}

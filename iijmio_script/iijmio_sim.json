@@ -1,0 +1,76 @@
+[
+  {
+    "provider": "比較表 | 格安SIM / 格安スマホのIIJmio",
+    "tag": "iijmio",
+    "categories": [
+      {
+        "name": "データ通信専用SIM - タイプD",
+        "plan": [
+          {
+            "name": "6",
+            "price": 900
+          },
+          {
+            "name": "12",
+            "price": 1520
+          },
+          {
+            "name": "24",
+            "price": 2560
+          }
+        ]
+      },
+      {
+        "name": "SMS機能付きSIM - タイプD",
+        "plan": [
+          {
+            "name": "6",
+            "price": 1040
+          },
+          {
+            "name": "12",
+            "price": 1660
+          },
+          {
+            "name": "24",
+            "price": 2700
+          }
+        ]
+      },
+      {
+        "name": "SMS機能付きSIM - タイプA",
+        "plan": [
+          {
+            "name": "6",
+            "price": 900
+          },
+          {
+            "name": "12",
+            "price": 1520
+          },
+          {
+            "name": "24",
+            "price": 2560
+          }
+        ]
+      },
+      {
+        "name": "音声通話機能付きSIM - タイプD - タイプA",
+        "plan": [
+          {
+            "name": "6",
+            "price": 1000
+          },
+          {
+            "name": "12",
+            "price": 1620
+          },
+          {
+            "name": "24",
+            "price": 2660
+          }
+        ]
+      }
+    ]
+  }
+]

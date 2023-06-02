@@ -1,0 +1,18 @@
+{
+  "provider": "nuroモバイル",
+  "tag": "nuro_mobile",
+  "categories": [
+    {
+      "name": "data only",
+      "plan": []
+    },
+    {
+      "name": "data and sms",
+      "plan": []
+    },
+    {
+      "name": "data, sms & call",
+      "plan": []
+    }
+  ]
+}

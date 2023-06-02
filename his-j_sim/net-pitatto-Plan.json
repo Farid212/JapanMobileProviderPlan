@@ -1,0 +1,159 @@
+[
+  {
+    "Provider": "格安SIMならH.I.S.モバイル",
+    "Tag": "his_mobile_d",
+    "PlanName": "net-pitatto",
+    "DetailsPlan": [
+      {
+        "dataCapacity": "1g",
+        "operator": "Docomo",
+        "price": "990円"
+      },
+      {
+        "dataCapacity": "1g",
+        "operator": "SoftBank",
+        "price": "1,090円"
+      },
+      {
+        "dataCapacity": "2g",
+        "operator": "Docomo",
+        "price": "1,490円"
+      },
+      {
+        "dataCapacity": "2g",
+        "operator": "SoftBank",
+        "price": "1,590円"
+      },
+      {
+        "dataCapacity": "3g",
+        "operator": "Docomo",
+        "price": "1,990円"
+      },
+      {
+        "dataCapacity": "3g",
+        "operator": "SoftBank",
+        "price": "2,090円"
+      },
+      {
+        "dataCapacity": "4g",
+        "operator": "Docomo",
+        "price": "2,490円"
+      },
+      {
+        "dataCapacity": "4g",
+        "operator": "SoftBank",
+        "price": "2,590円"
+      },
+      {
+        "dataCapacity": "5g",
+        "operator": "Docomo",
+        "price": "2,990円"
+      },
+      {
+        "dataCapacity": "5g",
+        "operator": "SoftBank",
+        "price": "3,090円"
+      },
+      {
+        "dataCapacity": "6g",
+        "operator": "Docomo",
+        "price": "3,490円"
+      },
+      {
+        "dataCapacity": "6g",
+        "operator": "SoftBank",
+        "price": "3,590円"
+      },
+      {
+        "dataCapacity": "7g",
+        "operator": "Docomo",
+        "price": "3,990円"
+      },
+      {
+        "dataCapacity": "7g",
+        "operator": "SoftBank",
+        "price": "4,090円"
+      },
+      {
+        "dataCapacity": "8g",
+        "operator": "Docomo",
+        "price": "4,490円"
+      },
+      {
+        "dataCapacity": "8g",
+        "operator": "SoftBank",
+        "price": "4,590円"
+      },
+      {
+        "dataCapacity": "9g",
+        "operator": "Docomo",
+        "price": "4,990円"
+      },
+      {
+        "dataCapacity": "9g",
+        "operator": "SoftBank",
+        "price": "5,090円"
+      },
+      {
+        "dataCapacity": "10g",
+        "operator": "Docomo",
+        "price": "5,490円"
+      },
+      {
+        "dataCapacity": "10g",
+        "operator": "SoftBank",
+        "price": "5,590円"
+      },
+      {
+        "dataCapacity": "11g",
+        "operator": "Docomo",
+        "price": "5,840円"
+      },
+      {
+        "dataCapacity": "11g",
+        "operator": "SoftBank",
+        "price": "5,940円"
+      },
+      {
+        "dataCapacity": "12g",
+        "operator": "Docomo",
+        "price": "6,190円"
+      },
+      {
+        "dataCapacity": "12g",
+        "operator": "SoftBank",
+        "price": "6,290円"
+      },
+      {
+        "dataCapacity": "13g",
+        "operator": "Docomo",
+        "price": "6,540円"
+      },
+      {
+        "dataCapacity": "13g",
+        "operator": "SoftBank",
+        "price": "6,640円"
+      },
+      {
+        "dataCapacity": "14g",
+        "operator": "Docomo",
+        "price": "6,890円"
+      },
+      {
+        "dataCapacity": "14g",
+        "operator": "SoftBank",
+        "price": "6,990円"
+      },
+      {
+        "dataCapacity": "15g",
+        "operator": "Docomo",
+        "price": "7,240円"
+      },
+      {
+        "dataCapacity": "15g",
+        "operator": "SoftBank",
+        "price": "7,340円"
+      }
+    ]
+  }
+]

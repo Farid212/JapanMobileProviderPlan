@@ -1,0 +1,28 @@
+[
+  {
+    "Provider": "LINEモバイル",
+    "Plan": "月額基本料金",
+    "information": [
+      {
+        "monthlyCapacity": "3GB",
+        "dataSim": "月額1,110円",
+        "callSim": "月額1,690円"
+      },
+      {
+        "monthlyCapacity": "5GB",
+        "dataSim": "月額1,640円",
+        "callSim": "月額2,220円"
+      },
+      {
+        "monthlyCapacity": "7GB",
+        "dataSim": "月額2,300円",
+        "callSim": "月額2,880円"
+      },
+      {
+        "monthlyCapacity": "10GB",
+        "dataSim": "月額2,640円",
+        "callSim": "月額3,220円"
+      }
+    ]
+  }
+]

@@ -59,16 +59,16 @@ const cleanData = (data) => {
 	return cleanObj;
 }
 
-function writeFile(data) {
+const writeFile = (data) =>{
     let thisYear = new Date().getFullYear()
-    let dataAsString = JSON.stringify(data, null, 2);
-    fs.writeFile(`biglobe_sim${thisYear}.json`, dataAsString, err => {
-        if (err) {
+    let dataAsString = JSON.stringify(data, null, 2)
+    fs.writeFile(`${thisYear}.json`, dataAsString, err=>{
+        if(err){
             console.error(err);
             return;
         }
-        console.log("File has been created");
-    });
+        console.log('File created');
+    })
 }
 
 const req = (err, response, body) =>{

@@ -1,0 +1,64 @@
+[
+  {
+    "Provider": "格安SIMならH.I.S.モバイル",
+    "Tag": "his_mobile_d",
+    "PlanName": "call-unlimited",
+    "DetailsPlan": [
+      {
+        "dataCapacity": "500m",
+        "operator": "Docomo",
+        "price": "1,550円"
+      },
+      {
+        "dataCapacity": "500m",
+        "operator": "SoftBank",
+        "price": "1,800円"
+      },
+      {
+        "dataCapacity": "2g",
+        "operator": "Docomo",
+        "price": "1,950円"
+      },
+      {
+        "dataCapacity": "2g",
+        "operator": "SoftBank",
+        "price": "2,350円"
+      },
+      {
+        "dataCapacity": "6g",
+        "operator": "Docomo",
+        "price": "2,550円"
+      },
+      {
+        "dataCapacity": "6g",
+        "operator": "SoftBank",
+        "price": "2,950円"
+      },
+      {
+        "dataCapacity": "10g",
+        "operator": "Docomo",
+        "price": "3,450円"
+      },
+      {
+        "dataCapacity": "10g",
+        "operator": "SoftBank",
+        "price": "4,250円"
+      },
+      {
+        "dataCapacity": "20g",
+        "operator": "Docomo",
+        "price": "5,150円"
+      },
+      {
+        "dataCapacity": "20g",
+        "operator": "SoftBank",
+        "price": "5,950円"
+      },
+      {
+        "dataCapacity": "50g",
+        "operator": "Docomo",
+        "price": "8,600円"
+      }
+    ]
+  }
+]
